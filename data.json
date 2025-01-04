@@ -1,0 +1,121 @@
+{
+  "places": [
+    {
+      "id": "1",
+      "name": "Lumbini",
+      "region": "Lumbini",
+      "type": "Cultural",
+      "rating": "4.5",
+      "description": "Lumbini is the birthplace of Siddhartha Gautama, the founder of Buddhism. It is a pilgrimage site for Buddhists and a UNESCO World Heritage Site. The sacred site of Lumbini is located in the Rupandehi district of Nepal, near the Indian border. It is a place of great spiritual significance and attracts thousands of pilgrims and tourists every year.",
+      "image_1": "https://images.pexels.com/photos/7331531/pexels-photo-7331531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "image_2": "https://images.pexels.com/photos/18201054/pexels-photo-18201054/free-photo-of-vishwa-shanti-stupa-in-varanasi-in-india.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_3": "https://images.pexels.com/photos/9257175/pexels-photo-9257175.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_4": "https://images.pexels.com/photos/6327865/pexels-photo-6327865.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "activities": "Religious pilgrimage, meditation, sightseeing"
+    },
+    {
+      "id": "2",
+      "name": "Pokhara",
+      "region": "Gandaki",
+      "type": "Adventure",
+      "rating": "5.0",
+      "description": "Pokhara is a popular tourist destination in Nepal known for its natural beauty and adventure activities. It is located in the Gandaki province and is surrounded by the Annapurna mountain range. Pokhara is a great place to relax and enjoy the stunning views of the Himalayas, go boating on Phewa Lake, or trek in the surrounding hills. It is also a hub for paragliding, zip-lining, and other adventure sports.",
+      "image_1": "https://images.pexels.com/photos/14989389/pexels-photo-14989389/free-photo-of-landscape-photography-of-phewa-lake.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_2": "https://images.pexels.com/photos/1588134/pexels-photo-1588134.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_3": "https://images.pexels.com/photos/14136902/pexels-photo-14136902.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_4": "https://images.pexels.com/photos/23855452/pexels-photo-23855452/free-photo-of-group-of-men-digging-and-carrying-baskets.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "activities": "Paragliding, boating, trekking"
+    },
+    {
+      "id": "3",
+      "name": "Mustang",
+      "region": "Gandaki",
+      "type": "Trekking",
+      "rating": "4.6",
+      "description": "Mustang is a remote region in the Dhaulagiri province of Nepal known for its rugged landscapes, ancient monasteries, and unique culture. It is located in the rain shadow of the Annapurna and Dhaulagiri mountain ranges, making it a dry and arid region. Mustang is a great destination for trekking and exploring the traditional Tibetan culture of the region. The Upper Mustang region is a restricted area and requires a special permit to visit.",
+      "image_1": "https://images.pexels.com/photos/29053931/pexels-photo-29053931/free-photo-of-stunning-aerial-view-of-nepal-s-mustang-landscape.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_2": "https://images.pexels.com/photos/29053942/pexels-photo-29053942/free-photo-of-majestic-mustang-valley-landscape-in-nepal.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_3": "https://images.pexels.com/photos/20808426/pexels-photo-20808426/free-photo-of-upper-mustang-trek-in-nepal.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_4": "https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "activities": "Trekking, cultural exploration"
+    },
+    {
+      "id": "4",
+      "name": "Chitwan National Park",
+      "region": "Bagmati",
+      "type": "Adventure",
+      "rating": "4.1",
+      "description": "Chitwan National Park is a UNESCO World Heritage Site and one of the best wildlife viewing destinations in Nepal. It is located in the Chitwan district of Nepal and is home to a wide variety of wildlife, including tigers, rhinoceros, elephants, and crocodiles. Visitors to Chitwan National Park can go on jungle safaris, elephant rides, and bird-watching tours to see the diverse flora and fauna of the region.",
+      "image_1": "https://images.pexels.com/photos/10965830/pexels-photo-10965830.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_2": "https://images.pexels.com/photos/11773542/pexels-photo-11773542.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_3": "https://images.pexels.com/photos/2668607/pexels-photo-2668607.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_4": "https://images.pexels.com/photos/2663483/pexels-photo-2663483.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "activities": "Jungle safari, bird-watching, elephant ride"
+    },
+    {
+      "id": "5",
+      "name": "Namche Bazaar",
+      "region": "Eastern",
+      "type": "Trekking",
+      "rating": "4.8",
+      "description": "Namche Bazaar is a popular stopover for trekkers on their way to Everest Base Camp. It is located in the Khumbu region of Nepal and is the gateway to the Everest region. Namche Bazaar is a bustling market town with shops, restaurants, and lodges catering to trekkers and climbers. It is also a great place to acclimatize to the high altitude before continuing on to higher elevations.",
+      "image_1": "https://images.pexels.com/photos/28625171/pexels-photo-28625171/free-photo-of-aerial-view-of-namche-bazaar-in-nepal-s-himalayas.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_2": "https://images.pexels.com/photos/28625168/pexels-photo-28625168/free-photo-of-scenic-view-of-namche-village-in-nepal-s-himalayas.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_3": "https://images.pexels.com/photos/20019341/pexels-photo-20019341/free-photo-of-smiling-woman-leaning-in-store-window.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_4": "https://images.pexels.com/photos/20019339/pexels-photo-20019339/free-photo-of-little-boy-and-girl-sitting-outdoors-with-a-white-dog.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "activities": "Trekking, shopping, acclimatization"
+    },
+    {
+      "id": "6",
+      "name": "Ghandruk",
+      "region": "Gandaki",
+      "type": "Cultural",
+      "rating": "4.7",
+      "description": "Ghandruk is a picturesque village in the Annapurna region of Nepal known for its traditional Gurung culture and stunning mountain views. It is located on the Annapurna Circuit trekking route and is a popular stopover for trekkers. Ghandruk is home to the Gurung people, who are known for their hospitality and rich cultural heritage. Visitors to Ghandruk can explore the village, visit local monasteries, and enjoy the panoramic views of the Annapurna mountain range.",
+      "image_1": "https://images.pexels.com/photos/2856273/pexels-photo-2856273.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_2": "https://images.pexels.com/photos/3119806/pexels-photo-3119806.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_3": "https://images.pexels.com/photos/14136902/pexels-photo-14136902.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_4": "https://images.pexels.com/photos/4342365/pexels-photo-4342365.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "activities": "Cultural exploration, trekking, mountain views"
+    },
+    {
+      "id": "7",
+      "name": "Gosaikunda",
+      "region": "Bagmati",
+      "type": "Trekking",
+      "rating": "4.2",
+      "description": "Gosaikunda is a sacred lake located in the Langtang National Park of Nepal. It is a popular pilgrimage site for Hindus and Buddhists and is known for its crystal-clear waters and stunning mountain views. Gosaikunda is located at an altitude of 4,380 meters and is surrounded by snow-capped peaks. Visitors to Gosaikunda can trek to the lake from Dhunche or Lauribinayak and enjoy the natural beauty of the region.",
+      "image_1": "https://images.pexels.com/photos/20046904/pexels-photo-20046904/free-photo-of-lake-in-mountains-in-winter.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_2": "https://images.pexels.com/photos/29974369/pexels-photo-29974369/free-photo-of-stunning-view-of-mount-dhaulagiri-in-autumn.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_3": "https://images.pexels.com/photos/2265247/pexels-photo-2265247.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_4": "https://images.pexels.com/photos/25636632/pexels-photo-25636632/free-photo-of-a-view-of-a-bridge-over-a-river-in-the-mountains.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "activities": "Trekking, pilgrimage, mountain views"
+    },
+    {
+      "id": "8",
+      "name": "Kathmandu",
+      "region": "Bagmati",
+      "type": "Cultural",
+      "rating": "3.9",
+      "description": "Kathmandu is the capital city of Nepal and a vibrant cultural hub. It is located in the Bagmati province and is home to several UNESCO World Heritage Sites, including Durbar Square, Swayambhunath Stupa, and Pashupatinath Temple. Kathmandu is a melting pot of cultures and religions, with a rich history dating back thousands of years. Visitors to Kathmandu can explore the city's ancient temples, palaces, and markets, and experience the unique blend of tradition and modernity.",
+      "image_1": "https://images.pexels.com/photos/3714145/pexels-photo-3714145.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_2": "https://images.pexels.com/photos/2104882/pexels-photo-2104882.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_3": "https://images.pexels.com/photos/2177708/pexels-photo-2177708.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_4": "https://images.pexels.com/photos/29987112/pexels-photo-29987112/free-photo-of-monk-meditating-near-historic-hindu-temple.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "activities": "Sightseeing, shopping, cultural exploration"
+    },
+    {
+      "id": "9",
+      "name": "Kusma",
+      "region": "Gandaki",
+      "type": "Adventure",
+      "rating": "4.9",
+      "description": "Kusma is a small town in the Gandaki province of Nepal known for its suspension bridge, the Kusma-Gyadi Bridge. The bridge is one of the longest suspension bridges in Nepal and offers stunning views of the Kali Gandaki River and the surrounding hills. Kusma is a great destination for adventure enthusiasts and nature lovers, with opportunities for hiking, paragliding, and river rafting in the area.",
+      "image_1": "https://images.pexels.com/photos/1486036/pexels-photo-1486036.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_2": "https://images.pexels.com/photos/2745261/pexels-photo-2745261.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_3": "https://images.pexels.com/photos/10871498/pexels-photo-10871498.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_4": "https://images.pexels.com/photos/13972232/pexels-photo-13972232.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "activities": "Hiking, paragliding, river rafting"
+    }
+  ]
+}
