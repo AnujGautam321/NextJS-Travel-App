@@ -3,7 +3,7 @@ import React from "react";
 export default function Contact() {
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col items-center py-16 px-5">
-      {/* Page Title */}
+      
       <h1 className="text-5xl font-extrabold text-gray-800 mb-10">
         Get in Touch 🌍
       </h1>
@@ -13,11 +13,11 @@ export default function Contact() {
         platforms.
       </p>
 
-      {/* Contact Form Section */}
+      
       <div className="bg-white shadow-lg rounded-lg p-8 max-w-4xl w-full">
         <h2 className="text-3xl font-bold text-gray-800 mb-6">Contact Us</h2>
         <form className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          {/* Name */}
+         
           <div className="col-span-1">
             <label htmlFor="name" className="block text-gray-700 font-medium mb-2">
               Full Name
@@ -29,7 +29,7 @@ export default function Contact() {
               placeholder="Enter your full name"
             />
           </div>
-          {/* Email */}
+          
           <div className="col-span-1">
             <label htmlFor="email" className="block text-gray-700 font-medium mb-2">
               Email Address
@@ -41,7 +41,7 @@ export default function Contact() {
               placeholder="Enter your email address"
             />
           </div>
-          {/* Subject */}
+          
           <div className="col-span-2">
             <label htmlFor="subject" className="block text-gray-700 font-medium mb-2">
               Subject
@@ -53,7 +53,7 @@ export default function Contact() {
               placeholder="Enter the subject"
             />
           </div>
-          {/* Message */}
+          
           <div className="col-span-2">
             <label htmlFor="message" className="block text-gray-700 font-medium mb-2">
               Message
@@ -65,7 +65,7 @@ export default function Contact() {
               rows={6}
             ></textarea>
           </div>
-          {/* Submit Button */}
+        
           <div className="col-span-2 flex justify-center">
             <button
               type="submit"
@@ -77,7 +77,7 @@ export default function Contact() {
         </form>
       </div>
 
-      {/* Address and Social Links Section */}
+      
       <div className="mt-16 flex flex-col items-center">
         <h2 className="text-3xl font-bold text-gray-800 mb-6">Our Office</h2>
         <p className="text-lg text-gray-600 mb-4">
@@ -85,7 +85,7 @@ export default function Contact() {
         </p>
         <p className="text-lg text-gray-600 mb-8">Phone: +977-1-2345678</p>
 
-        {/* Social Media Links */}
+        
         <div className="flex gap-6">
           <a
             href="#"
