@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 
-// Function to fetch place data
+
 async function getPlace(id) {
   const res = await fetch(`http://localhost:4000/places/${id}`, {
     next: { revalidate: 10 }, // Optional: Cache revalidation for 10 seconds
@@ -32,7 +32,7 @@ export default async function DestinationPage({ params }) {
           {place.description}
         </p>
 
-        {/* Star Rating Section */}
+        
         <div className="flex justify-center items-center mt-6">
           {[1, 2, 3, 4, 5].map((star) => (
             <svg
@@ -50,7 +50,7 @@ export default async function DestinationPage({ params }) {
           <p className="text-gray-600 ml-2 text-lg">({place.rating} / 5)</p>
         </div>
 
-        {/* Images Section */}
+        
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 mt-8">
           {[place.image_1, place.image_2, place.image_3, place.image_4].map(
             (image, index) => (
@@ -70,7 +70,7 @@ export default async function DestinationPage({ params }) {
           )}
         </div>
 
-        {/* Popular Activities Section */}
+        
         <div className="mt-12 bg-blue-50 py-8 rounded-lg shadow-lg">
           <h3 className="text-3xl font-bold text-gray-800 text-center">
             Popular Activities
@@ -85,7 +85,7 @@ export default async function DestinationPage({ params }) {
                 className="flex items-center gap-4 bg-white px-6 py-4 rounded-lg shadow-md hover:shadow-lg transform hover:scale-105 transition duration-300"
               >
                 <div className="bg-blue-500 text-white w-12 h-12 flex items-center justify-center rounded-full">
-                  {/* You can replace the SVG with a relevant icon for each activity */}
+                  
                   <svg
                     className="w-6 h-6"
                     xmlns="http://www.w3.org/2000/svg"
@@ -103,13 +103,13 @@ export default async function DestinationPage({ params }) {
           </div>
         </div>
 
-        {/* Review Section */}
+       
         <div className="mt-12 bg-gray-50 py-8 px-6 rounded-lg shadow-lg">
           <h2 className="text-3xl font-bold text-gray-800 text-center mb-4">
             Leave Your Review
           </h2>
           
-          {/* Textarea for Review */}
+          
           <form className="flex flex-col items-center mt-6">
             <textarea
               className="w-full max-w-xl border rounded-lg p-4 shadow focus:outline-none focus:ring-2 focus:ring-blue-500"
